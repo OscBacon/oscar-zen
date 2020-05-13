@@ -1,2 +1,2 @@
 # oscar-zen
-Sending some ~zen~ your way
+Sending some \~zen\~ your way
