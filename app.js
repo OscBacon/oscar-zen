@@ -1,11 +1,14 @@
 const express = require('express');
 
 const app = express();
-const port = 3000;
+const port = process.env.PORT || 3000;
 
 const zens = [
     "Be lazy",
-    "Best is the enemy of good"
+    "Best is the enemy of good",
+    "A problem well-stated is half solved",
+    "He who angers you conquers you",
+    "Accept that the future will play out differently than you think it will"
 ]
 
 app.get('/', (req, res) => {
