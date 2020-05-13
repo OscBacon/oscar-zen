@@ -1,0 +1,22 @@
+{
+  "name": "oscar-zen",
+  "version": "1.0.0",
+  "description": "Sending some ~zen~ your way",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OscBacon/oscar-zen.git"
+  },
+  "keywords": [
+    "zen"
+  ],
+  "author": "Oscar Baracos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OscBacon/oscar-zen/issues"
+  },
+  "homepage": "https://github.com/OscBacon/oscar-zen#readme"
+}
